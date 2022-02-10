@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kailash-Dhungana
-- 👀 I’m interested in java,python and web designing
-- 🌱 I’m currently learning c and java
-- 💞️ I’m looking to collaborate on ...
+This is a study material for BIT.
+Here we can find many slides and other reading material.
 - 📫 How to reach me => email me at 'dhunganak1920@gmail.com"
 
 <!---
