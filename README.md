@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kailash-Dhungana
-
+- 💻 learning to code
+- 🏹 target achiever
 - 📫 How to reach me => email me at 'dhunganak1920@gmail.com"
 
 <!---
