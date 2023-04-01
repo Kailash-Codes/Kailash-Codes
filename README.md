@@ -1,4 +1,4 @@
-<h1>I am a front end developer.</h1>
+- <h1>I am a front end developer.</h1>
 - ➽👋 Hi, I’m @Kailash-Dhungana
 - ➽💻 learning to code
 - ➽🏹 target achiever
