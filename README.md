@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-codes&layout=compact&exclude_repo=activator&exclude_language=python" alt="kailash-codes"/></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash-codes&" alt="kailash-codes" /></p>
