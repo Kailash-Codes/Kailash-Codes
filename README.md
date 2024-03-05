@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"></a> &nbsp;
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"></a> &nbsp;
  <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TanStack/query/ab69d83add3779d1bb7e0443bd24a75b623e137c/media/emblem-light.svg" width="36" height="36" alt="React Query" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"></a> &nbsp;
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-codes&layout=compact&exclude_repo=activator&exclude_language=python" alt="kailash-codes"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash-codes&" alt="kailash-codes" /></p>
